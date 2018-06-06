@@ -38,28 +38,28 @@ Then right click the same "eye" and select "Replace Keyframe". Then
 you're going to repeat the following steps as you move down all the
 "Plane.xxx" objects:
 
-1. Move to the next time frame (mouse or arrow on Current Frame).
-2. Hide the Plane that's visible (left click the "eye" in outliner).
-3. Right click that same "eye" and select "Insert Keyframe".
-4. Left click the following "eye" to make it visible.
-5. Right click that same (following) "eye" and select "Insert Keyframe".
+        1. Move to the next time frame (mouse or arrow on Current Frame).
+        2. Hide the Plane that's visible (left click the "eye" in outliner).
+        3. Right click that same "eye" and select "Insert Keyframe".
+        4. Left click the following "eye" to make it visible.
+        5. Right click that same (following) "eye" and select "Insert Keyframe".
 
 Repeat steps 1-5 advancing to the next "Plane..." object each time.
 
 The pattern (that you'll repeat many times) will become:
 
-    * Advance Time
-    * Left Click Visible Eye (to hide it)
-    * Right Click / Insert Keyframe
-    * Left Click Next (hidden) Eye (to show it)
-    * Right Click / Insert Keyframe
+        - Advance Time
+        - Left Click Visible Eye (to hide it)
+        - Right Click / Insert Keyframe
+        - Left Click Next (hidden) Eye (to show it)
+        - Right Click / Insert Keyframe
 
 When you're done, you should be able to drag along the time line
 and watch each slice appear and disappear (one at a time). Once
 you've got that, you're ready to make the pictures. It helps to view
 the original object to get the centering and zooming right. You want
 to be looking down from the top (View/Top) in "Ortho" mode
-(View/View Persp/Ortho). Then set the zoom and centering to show
+(View/ViewPersp/Ortho). Then set the zoom and centering to show
 the entire object as you'd like it to appear in the images. You can set
 your Render properties for the "X" and "Y" dimensions of your final
 images. This is a good time to use the "OpenGL render" button to
