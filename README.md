@@ -1,7 +1,7 @@
 # Test-Slice-Generation
 This project contains description and code for generating test slices from known 3D objects. 
 
-## Procedure:
+## Blender Procedure:
 
 Start with any water-tight outward-normal object in Blender.
 
