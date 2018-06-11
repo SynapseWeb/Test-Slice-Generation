@@ -79,4 +79,8 @@ Here's what it looks like for a scene made up of a cone, a torus, and an icosphe
 
 ![Animation](docs/Cone_Ico_Torus_Animation.gif?raw=true "Slices through combined objects")
 
+# Other related projects:
 
+        - https://github.com/SynapseWeb/Mystery-Object
+        - https://github.com/SynapseWeb/Mystery-Object-2
+        - https://github.com/KotaAzul/Mystery-Series
