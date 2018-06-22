@@ -81,6 +81,6 @@ Here's what it looks like for a scene made up of a cone, a torus, and an icosphe
 
 # Other related projects:
 
-        - https://github.com/SynapseWeb/Mystery-Object
-        - https://github.com/SynapseWeb/Mystery-Object-2
-        - https://github.com/KotaAzul/Mystery-Series
+* **[Mystery-Object](https://github.com/SynapseWeb/Mystery-Object)**
+* **[Mystery-Object-2](https://github.com/SynapseWeb/Mystery-Object-2)**
+* **[KotaAzul Mystery-Series](https://github.com/KotaAzul/Mystery-Series)**
